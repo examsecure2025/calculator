@@ -33,3 +33,6 @@ A simple and functional calculator application that performs basic mathematical 
 - Click the equals button (=) to calculate the result
 - Click Clear button to reset the calculator
 
+##Screenshots
+<img width="1398" height="755" alt="image" src="https://github.com/user-attachments/assets/201ea9bf-3525-41d2-b932-a6c7cbd77ff7" />
+
